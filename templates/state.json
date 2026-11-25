@@ -1,0 +1,12 @@
+{
+    "currentRun": null,
+    "phase": "PICK_CLASS",
+    "currentClass": null,
+    "runs": [],
+    "lastBaseline": {
+        "line": null,
+        "branch": null,
+        "date": null,
+        "run": null
+    }
+}

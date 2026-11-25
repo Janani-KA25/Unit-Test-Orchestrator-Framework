@@ -1,0 +1,17 @@
+{
+    "line_coverage_target": 80,
+    "branch_coverage_target": 75,
+    "max_fix_attempts": 3,
+    "max_cases_per_plan": 40,
+    "surefire_timeout_seconds": 900,
+    "class_targets": {
+        "com.example.expensive.Pipeline": [
+            40,
+            30
+        ],
+        "com.example.edge.EdgeCaseHandler": [
+            90,
+            85
+        ]
+    }
+}
